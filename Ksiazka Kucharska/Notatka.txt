@@ -1,0 +1,7 @@
+Program uruchamiaæ za pomoc¹ Pliku Run
+W katalogu src znajduj¹ siê klasy
+w katalogu bin znajduj¹ siê skompilowane klasy
+
+
+
+
